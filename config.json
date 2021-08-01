@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "778702110144856084",
+        "secret": "HAyJ6DCY2RUoobaZprKv_dNnuIDYoO_B",
+        "token": "Nzc4NzAyMTEwMTQ0ODU2MDg0.X7V02g.jb_2OkLU3pv5xF564WgeOIjaJHQ"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "XXXXX",
+        "callback": "https://Vcodez-Uptimer-1.dariuscrf.repl.co/callback",
+        "discord_server_ID": "860177185109180478",
+        "owners": [
+            "749643325451141150"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://sakshyambaral:rogmitop@cluster0.gkkym.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/dyy6KTUKqy"
+}
